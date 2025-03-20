@@ -48,7 +48,7 @@ You can use the [azcopy copy](https://github.com/Azure/azure-storage-azcopy/wiki
 > [!TIP]
 > The examples in this section enclose path arguments with single quotes (''). Use single quotes in all command shells except for the Windows Command Shell (cmd.exe). If you're using a Windows Command Shell (cmd.exe), enclose path arguments with double quotes ("") instead of single quotes ('').
 
-This section contains the following examples:
+This section contains the following examples
 
 > [!div class="checklist"]
 > - Upload a file
